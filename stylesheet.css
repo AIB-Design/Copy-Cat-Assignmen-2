@@ -1,0 +1,28 @@
+/* Comments in CSS Look like this */
+
+
+
+/* Global */
+body {}
+p {}
+img {}
+
+a:link {}
+a:hover {}
+a:visited {}
+
+
+/* Main Sections */
+#wrapper {}
+#header {}
+#left {}
+#right {} 
+#footer {}
+
+
+/* Details */
+.logotype {}
+
+#right ul {}
+#right ul li {}
+#right ul li:hover {}
